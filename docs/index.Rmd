@@ -1,0 +1,15 @@
+---
+title: "About Me"
+date: "08/05/2020"
+output:
+  html_document:
+    theme: darkly
+---
+
+<center>
+# Hello, My Name is Tyler Chia.
+</center>
+
+Though I am originally from the city of San Francisco, I am currently a second-year student at the University of California, Santa Barbara. I am an economics and statistics and data science double major and am minoring in both spatial science and technology management. I enjoy coding and testing my problem solving abilities. Through this website, I plan to display my work done through various classes and projects that I take on during my time in college. 
+
+![](./img/IMG_6264.jpeg)

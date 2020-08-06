@@ -1,0 +1,17 @@
+name: "Tyler Chia's Webpage"
+output_dir: "."
+navbar:
+  title: "Tyler Chia's Website"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "GIS Work"
+      href: geog176A.html
+  right:
+    - text: "Github Page"
+      icon: fa-rocket
+      href: https://github.com/TylerChia/TylerChia
+output:
+  html_document:
+    theme: darkly

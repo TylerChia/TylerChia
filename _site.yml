@@ -8,6 +8,8 @@ navbar:
       href: index.html
     - text: "GIS Work"
       href: geog176A.html
+    - text: "CV/Resume"
+      href: CV.html
   right:
     - text: "Github Page"
       icon: fa-rocket

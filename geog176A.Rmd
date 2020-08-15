@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-During the summer of 2020, while stuck in quarantine, I took six classes, one of which was a GIS course based in R. Out of the three coding classes I took this summer, this GIS course was the most hands-on and provided me with the most experience for data science.  Below is a collection of links for all the projects that I completed.
+During the summer of 2020, while in quarantine, I took six classes, one of which was a GIS course based in R. Out of the three coding classes I took this summer, this GIS course was the most hands-on and provided me with the most experience for data science.  Below is a collection of links for all the projects that I completed.
 
 ## [Building  a project website](https://github.com/TylerChia/TylerChia.git)
 
@@ -11,3 +11,12 @@ During the summer of 2020, while stuck in quarantine, I took six classes, one of
 - "Committing" files to git and "pushing" changes to GitHub
 - Includes a github repository for access to all the code
 - Learned how to display my work in a way that is visible to the public
+
+*****
+
+## [Tracking COVID-19 Data](https://tylerchia.github.io/geog-176A-labs/lab-02.html)
+
+- Learned the basics of data wrangling
+- Gained the ability to analyze data sets in order to be able to be able to identify important information as well as merge multiple data sets on recurring variables
+- Learned the basics of ggplot2 which allows me to present my data analysis through graphs and other visualizations
+- Helped me understand the importance of scale when graphing as two graphs with the same data can imply two very different results

@@ -10,6 +10,9 @@ navbar:
       href: geog176A.html
     - text: "CV/Resume"
       href: CV.html
+    - text: "Projects"
+      icon: fa-rocket
+      href: projects.html
   right:
     - text: "Github Page"
       icon: fa-rocket

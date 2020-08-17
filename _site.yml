@@ -23,7 +23,7 @@ navbar:
     - icon: fa-instagram
       href: https://www.instagram.com/tytychia/
     - icon: fa-envelope-square
-      href: tylerchia7@gmail.com
+      href: mailto:tylerchia7@gmail.com
 output:
   html_document:
     theme: darkly

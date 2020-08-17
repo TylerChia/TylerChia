@@ -20,6 +20,7 @@ Though I am originally from the city of San Francisco, I am currently a second-y
 
 <center>
 ```{r, echo=FALSE}
+library(icon)
 fa("home", size = 5, color="yellow", animate = "spin")
 ```
 </center>

@@ -2,7 +2,7 @@ name: "Tyler Chia's Webpage"
 output_dir: "."
 navbar:
   title: "Tyler Chia's Website"
-  left:
+  left: 
     - text: "Home"
       icon: fa-home
       href: index.html

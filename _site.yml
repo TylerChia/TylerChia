@@ -17,11 +17,13 @@ navbar:
       href: projects.html
   right:
     - icon: fa-github
-      href: https://github.com/TylerChia/TylerChia
+      href: https://github.com/TylerChia
     - icon: fa-linkedin
       href: https://www.linkedin.com/in/tyler-chia-4920411b4/
     - icon: fa-instagram
       href: https://www.instagram.com/tytychia/
+    - icon: fa-envelope-square
+      href: tylerchia7@gmail.com
 output:
   html_document:
     theme: darkly

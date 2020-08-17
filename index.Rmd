@@ -18,9 +18,8 @@ Though I am originally from the city of San Francisco, I am currently a second-y
 ![](./img/IMG_6264.jpeg)
 </center>
 
+*****
+
 <center>
-```{r, echo=FALSE}
-library(icon)
-fa("home", size = 5, color="yellow", animate = "spin")
-```
+tylerchia7@gmail.com
 </center>

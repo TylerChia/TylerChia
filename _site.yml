@@ -7,16 +7,21 @@ navbar:
       icon: fa-home
       href: index.html
     - text: "GIS Work"
+      icon: fa-globe
       href: geog176A.html
     - text: "CV/Resume"
+      icon: fa-file
       href: CV.html
     - text: "Projects"
       icon: fa-rocket
       href: projects.html
   right:
-    - text: "Github Page"
-      icon: fa-rocket
+    - icon: fa-github
       href: https://github.com/TylerChia/TylerChia
+    - icon: fa-linkedin
+      href: https://www.linkedin.com/in/tyler-chia-4920411b4/
+    - icon: fa-instagram
+      href: https://www.instagram.com/tytychia/
 output:
   html_document:
     theme: darkly

@@ -1,6 +1,5 @@
 ---
 title: "About Me"
-date: "08/05/2020"
 output:
   html_document:
     theme: darkly

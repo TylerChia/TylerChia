@@ -47,7 +47,7 @@ Teacher Assistant | West Portal Lutheran | 200 Sloat Blvd, San Francisco, CA 941
 University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In Progress
 
 
-- Economics Major B.A.
+- Economics B.A.
 - Statistics and Data Science B.S.
 - Minor in Spatial Science
 - Professional Certificate in Technology Management
@@ -55,9 +55,9 @@ University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In P
 
 ### Skills
 *****
-- Skillful in Mathematics/Statistics
-- Experience with Microsoft Office
+
+- Languages: R, SQL, Python, C++, SAS
+- Visualization: ggplot2
+- Analysis: tidyverse
+- Development: RMarkdown, Github, MS Office, Basic Knowledge of HTML and CSS
 - 5 Years of Spanish Class
-- Team Leadership
-- Following Procedure Efficiently
-- Knowledge in R, SQL, Python, C++, SAS

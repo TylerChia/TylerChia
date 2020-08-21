@@ -20,3 +20,12 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 - Gained the ability to analyze data sets in order to be able to be able to identify important information as well as merge multiple data sets on recurring variables
 - Learned the basics of ggplot2 which allows me to present my data analysis through graphs and other visualizations
 - Helped me understand the importance of scale when graphing as two graphs with the same data can imply two very different results
+
+*****
+
+## [Distances and the Border Zone](https://tylerchia.github.io/geog-176A-labs/lab-03.html)
+
+- Reading in data and creating sf objects
+- Transforming both coordinate systems and geometries in order to find distance between objects
+- Dropping and converting units from meters to kilometers
+- Using ggrepel and gghighlight to create visuals for the data

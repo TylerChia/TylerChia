@@ -29,3 +29,13 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 - Transforming both coordinate systems and geometries in order to find distance between objects
 - Dropping and converting units from meters to kilometers
 - Using ggrepel and gghighlight to create visuals for the data
+
+*****
+
+## [Tessellations and Point-In-Polygon](https://tylerchia.github.io/geog-176A-labs/lab-04.html)
+
+- Creating functions as a way of making calculations and visualizations easier
+- Simplifying geometries in order to speed up the processing time for my computer
+- Creating tessellations that describe the extent of a region with geometric shapes
+- Different tessellations can show very different results which is the MAUP problem
+- Building leaflets that give users an interactive experience with mapping

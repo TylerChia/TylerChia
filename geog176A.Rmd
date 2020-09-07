@@ -39,3 +39,14 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 - Creating tessellations that describe the extent of a region with geometric shapes
 - Different tessellations can show very different results which is the MAUP problem
 - Building leaflets that give users an interactive experience with mapping
+
+*****
+
+## [Rasters and Remote Sensing](https://tylerchia.github.io/geog-176A-labs/lab-05.html)
+
+- Identifying an AOI by using a bounding box created from max/min x and y points
+- Download, cache, and load images as multiband raster object and crop domain to AOI
+- Creating RGB plots using Landsat 8 Operational Land Imager
+- Using Raster Algebra and Raster Thresholding to display flood raster stack through different methods
+- Utilizing K-Means algorithm to identify similar features in a continuous field
+

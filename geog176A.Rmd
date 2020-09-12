@@ -2,7 +2,7 @@
 title: "Projects"
 ---
 
-During the summer of 2020, while in quarantine, I took six classes, one of which was a GIS course based in R. Out of the three coding classes I took this summer, this GIS course was the most hands-on and provided me with the most experience for data science.  Below is a collection of links for all the projects that I completed.
+During the summer of 2020, I took six classes, one of which was a GIS course based in R. Out of the three coding classes I took this summer, this GIS course was the most hands-on and provided me with the most experience for data science.  Below is a collection of links for all the projects that I completed.
 
 ## [Building  a project website](https://github.com/TylerChia/TylerChia.git)
 
@@ -16,6 +16,10 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 
 ## [Tracking COVID-19 Data](https://tylerchia.github.io/geog-176A-labs/lab-02.html)
 
+<center>
+![](./data/lab02img.png)
+</center>
+
 - Learned the basics of data wrangling
 - Gained the ability to analyze data sets in order to be able to be able to identify important information as well as merge multiple data sets on recurring variables
 - Learned the basics of ggplot2 which allows me to present my data analysis through graphs and other visualizations
@@ -25,6 +29,10 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 
 ## [Distances and the Border Zone](https://tylerchia.github.io/geog-176A-labs/lab-03.html)
 
+<center>
+![](./data/lab3img.png)
+</center>
+
 - Reading in data and creating sf objects
 - Transforming both coordinate systems and geometries in order to find distance between objects
 - Dropping and converting units from meters to kilometers
@@ -33,6 +41,10 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 *****
 
 ## [Tessellations and Point-In-Polygon](https://tylerchia.github.io/geog-176A-labs/lab-04.html)
+
+<center>
+![](./data/lab4img.png)
+</center>
 
 - Creating functions as a way of making calculations and visualizations easier
 - Simplifying geometries in order to speed up the processing time for my computer
@@ -44,9 +56,31 @@ During the summer of 2020, while in quarantine, I took six classes, one of which
 
 ## [Rasters and Remote Sensing](https://tylerchia.github.io/geog-176A-labs/lab-05.html)
 
+<center>
+![](./data/lab5img.png)
+</center>
+
 - Identifying an AOI by using a bounding box created from max/min x and y points
 - Download, cache, and load images as multiband raster object and crop domain to AOI
 - Creating RGB plots using Landsat 8 Operational Land Imager
 - Using Raster Algebra and Raster Thresholding to display flood raster stack through different methods
 - Utilizing K-Means algorithm to identify similar features in a continuous field
 
+*****
+
+## [Flood Risk in Mission Creek: Past, Present, Future](https://tylerchia.github.io/geog-176A-labs/lab-06.html)
+
+<center>
+![](./data/mission-creek-fim.gif)
+</center>
+
+- Bringing data into R using Web APIs, specifically the NLDI and USGS gages
+- Utilizing OSM to query building and stream data
+- Creating HAND rasters for rapid flood assessment in order to see structures that were impacted by inundation
+- Creating Flood Inundation Map Libraries as a way to form a 2-D flood warning system
+
+*****
+
+<center>
+tylerchia7@gmail.com
+</center>

@@ -20,6 +20,8 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ![](./data/lab02img.png)
 </center>
 
+
+
 - Learned the basics of data wrangling
 - Gained the ability to analyze data sets in order to be able to be able to identify important information as well as merge multiple data sets on recurring variables
 - Learned the basics of ggplot2 which allows me to present my data analysis through graphs and other visualizations
@@ -33,6 +35,8 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ![](./data/lab3img.png)
 </center>
 
+
+
 - Reading in data and creating sf objects
 - Transforming both coordinate systems and geometries in order to find distance between objects
 - Dropping and converting units from meters to kilometers
@@ -45,6 +49,8 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 <center>
 ![](./data/lab4img.png)
 </center>
+
+
 
 - Creating functions as a way of making calculations and visualizations easier
 - Simplifying geometries in order to speed up the processing time for my computer
@@ -60,6 +66,8 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ![](./data/lab5img.png)
 </center>
 
+
+
 - Identifying an AOI by using a bounding box created from max/min x and y points
 - Download, cache, and load images as multiband raster object and crop domain to AOI
 - Creating RGB plots using Landsat 8 Operational Land Imager
@@ -73,6 +81,8 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 <center>
 ![](./data/mission-creek-fim.gif)
 </center>
+
+
 
 - Bringing data into R using Web APIs, specifically the NLDI and USGS gages
 - Utilizing OSM to query building and stream data

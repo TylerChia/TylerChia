@@ -57,7 +57,8 @@ University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In P
 *****
 
 - Languages: R, SQL, Python, C++, SAS
-- Visualization: ggplot2
-- Analysis: tidyverse
+- Visualization: ggplot2, Matplotlib, Seaborn, Plotly
+- Analysis: tidyverse, Pandas, Numpy
 - Development: RMarkdown, Github, MS Office, Basic Knowledge of HTML and CSS
+- Mapping: sf, raster, leaflet, OpenStreetMaps, whitebox, bbox
 - 5 Years of Spanish Class

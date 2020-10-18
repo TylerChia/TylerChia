@@ -5,7 +5,7 @@ title: "Projects"
 
 Honors Contract Project for ENV S 165A.
 
-## [Mitigation Strategy Propsal: Solar Panels](https://tylerchia.github.io/Solar-Panel-Proposal/)
+## [Mitigation Strategy Proposal: Solar Panels](https://tylerchia.github.io/Solar-Panel-Proposal/)
 
 *****
 

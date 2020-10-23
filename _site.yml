@@ -6,15 +6,16 @@ navbar:
     - text: "Home"
       icon: fa-home
       href: index.html
+    - text: "Projects"
+      icon: fa-rocket
+      href: projects.html
     - text: "GIS Work"
       icon: fa-globe
       href: geog176A.html
     - text: "CV/Resume"
       icon: fa-file
       href: CV.html
-    - text: "Projects"
-      icon: fa-rocket
-      href: projects.html
+
   right:
     - icon: fa-github
       href: https://github.com/TylerChia

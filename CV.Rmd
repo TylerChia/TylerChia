@@ -52,6 +52,7 @@ University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In P
 - Minor in Spatial Science
 - Professional Certificate in Technology Management
 - Letters and Science Honors Program
+- UCSB Data Science Club Mentor
 
 ### Skills
 *****

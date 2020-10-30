@@ -9,7 +9,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Building  a project website
 
 <center>
-### [Website](https://tylerchia.github.io/TylerChia/) | [Github](https://github.com/TylerChia/TylerChia.git)
+<font size="4">
+[Website](https://tylerchia.github.io/TylerChia/) | [Github](https://github.com/TylerChia/TylerChia.git)
+</font>
 </center>
 
 - In this project, I learned how to utilize both Rmarkdown and Github Pages to author a static website
@@ -23,7 +25,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Tracking COVID-19 Data
 
 <center>
-### [Report](https://tylerchia.github.io/geog-176A-labs/lab-02.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-02.Rmd)
+<font size="4">
+[Report](https://tylerchia.github.io/geog-176A-labs/lab-02.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-02.Rmd)
+</font>
 </center>
 
 <center>
@@ -41,7 +45,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Distances and the Border Zone
 
 <center>
-### [Report](https://tylerchia.github.io/geog-176A-labs/lab-03.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-03.Rmd)
+<font size="4">
+[Report](https://tylerchia.github.io/geog-176A-labs/lab-03.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-03.Rmd)
+</font>
 </center>
 
 <center>
@@ -60,7 +66,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Tessellations and Point-In-Polygon
 
 <center>
-### [Report](https://tylerchia.github.io/geog-176A-labs/lab-04.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-04.Rmd)
+<font size="4">
+[Report](https://tylerchia.github.io/geog-176A-labs/lab-04.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-04.Rmd)
+</font>
 </center>
 
 <center>
@@ -80,7 +88,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Rasters and Remote Sensing
 
 <center>
-### [Report](https://tylerchia.github.io/geog-176A-labs/lab-05.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-05.Rmd)
+<font size="4">
+[Report](https://tylerchia.github.io/geog-176A-labs/lab-05.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-05.Rmd)
+</font>
 </center>
 
 <center>
@@ -100,7 +110,9 @@ During the summer of 2020, I took six classes, one of which was a GIS course bas
 ## Flood Risk in Mission Creek: Past, Present, Future
 
 <center>
-### [Report](https://tylerchia.github.io/geog-176A-labs/lab-06.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-06.Rmd)
+<font size="4">
+[Report](https://tylerchia.github.io/geog-176A-labs/lab-06.html) | [Code](https://raw.githubusercontent.com/TylerChia/geog-176A-labs/master/docs/lab-06.Rmd)
+</font>
 </center>
 
 <center>

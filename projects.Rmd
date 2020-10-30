@@ -8,7 +8,9 @@ Honors Contract Project.  In this project, using a combination of data science m
 ## Mitigation Strategy Proposal: Solar Panels
 
 <center>
-### [Code and Report](https://tylerchia.github.io/Solar-Panel-Proposal/)
+<font size="4">
+[Code and Report](https://tylerchia.github.io/Solar-Panel-Proposal/)
+</font>
 </center>
 
 <center>
@@ -22,7 +24,9 @@ Right before Fall quarter 2020, I participated in a Datathon hosted by the UC sy
 ## UC x Imagine Datathon Project
 
 <center>
-### [Code and Report](https://deepnote.com/publish/f31d9b1e-b811-4010-8d3e-ce8e17f35adb)
+<font size="4">
+[Code and Report](https://deepnote.com/publish/f31d9b1e-b811-4010-8d3e-ce8e17f35adb)
+</font>
 </center>
 
 <center>
@@ -30,12 +34,15 @@ Right before Fall quarter 2020, I participated in a Datathon hosted by the UC sy
 </center>
 
 *****
+
 During the summer of 2020, I took an online data science class that taught me the basics of data science specifically in python.  The two links below are the two projects that I completed for the class.  The first is based on a dataset pertaining to 911 calls in Montgomery County, Pennsylvania in 2015 and 2016.  The second is based on bank stocks from 2006 to 2015.  Below the links are a few bullet points that display what I learned through these projects.
 
 ## 911 Calls in Montgomery County, Pennsylvania
 
 <center>
-### [Code and Report](https://tylerchia.github.io/Montgomery-County-911-Calls/)
+<font size="4">
+[Code and Report](https://tylerchia.github.io/Montgomery-County-911-Calls/)
+</font>
 </center>
 
 <center>
@@ -46,7 +53,9 @@ During the summer of 2020, I took an online data science class that taught me th
 ## Bank Stocks
 
 <center>
-### [Code and Report](https://tylerchia.github.io/bank-stocks-project/)
+<font size="4">
+[Code and Report](https://tylerchia.github.io/bank-stocks-project/)
+</font>
 </center>
 
 <center>

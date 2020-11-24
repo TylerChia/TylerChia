@@ -3,9 +3,8 @@ title: "Projects"
 ---
 *****
 
-UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  IN PROGRESS.
-
 ## Spotify Recommender: Ordering Playlists
+UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  IN PROGRESS.
 
 <center>
 <font size="4">
@@ -19,9 +18,8 @@ UCSB Data Science Club Project.  Through this project, my group and I wanted to 
 
 *****
 
-Honors Contract Project.  In this project, using a combination of data science methods and thorough research, I proposed a mitigation strategy that requires certain homeowners, based on the purchase price of their house, to install solar panels as a way of reducing carbon emissions.
-
 ## Mitigation Strategy Proposal: Solar Panels
+Honors Contract Project.  In this project, using a combination of data science methods and thorough research, I proposed a mitigation strategy that requires certain homeowners, based on the purchase price of their house, to install solar panels as a way of reducing carbon emissions.
 
 <center>
 <font size="4">
@@ -35,9 +33,8 @@ Honors Contract Project.  In this project, using a combination of data science m
 
 *****
 
-Right before Fall quarter 2020, I participated in a Datathon hosted by the UC system and ImagineScholar.  The goal of this project was to analyze and visualize data about energy and load shedding in South Africa.  My partner and I decided to see if there is a correlation between instances of load shedding and international/foreign investment to see if load shedding was impacting the economy.
-
 ## UC x Imagine Datathon Project
+Right before Fall quarter 2020, I participated in a Datathon hosted by the UC system and ImagineScholar.  The goal of this project was to analyze and visualize data about energy and load shedding in South Africa.  My partner and I decided to see if there is a correlation between instances of load shedding and international/foreign investment to see if load shedding was impacting the economy.
 
 <center>
 <font size="4">
@@ -51,9 +48,8 @@ Right before Fall quarter 2020, I participated in a Datathon hosted by the UC sy
 
 *****
 
-During the summer of 2020, I took an online data science class that taught me the basics of data science specifically in python.  The two links below are the two projects that I completed for the class.  The first is based on a dataset pertaining to 911 calls in Montgomery County, Pennsylvania in 2015 and 2016.  The second is based on bank stocks from 2006 to 2015.  Below the links are a few bullet points that display what I learned through these projects.
-
 ## 911 Calls in Montgomery County, Pennsylvania
+During the summer of 2020, I took an online data science class that taught me the basics of data science specifically in python.  The two links below are the two projects that I completed for the class.  The first is based on a dataset pertaining to 911 calls in Montgomery County, Pennsylvania in 2015 and 2016.  The second is based on bank stocks from 2006 to 2015.  Below the links are a few bullet points that display what I learned through these projects.
 
 <center>
 <font size="4">

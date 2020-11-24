@@ -3,6 +3,22 @@ title: "Projects"
 ---
 *****
 
+UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  IN PROGRESS.
+
+## Spotify Recommender: Ordering Playlists
+
+<center>
+<font size="4">
+[Code and Report](https://tylerchia.github.io/dsclub-spotify-recommender/)
+</font>
+</center>
+
+<center>
+![](./data/histogram1.png)
+</center>
+
+*****
+
 Honors Contract Project.  In this project, using a combination of data science methods and thorough research, I proposed a mitigation strategy that requires certain homeowners, based on the purchase price of their house, to install solar panels as a way of reducing carbon emissions.
 
 ## Mitigation Strategy Proposal: Solar Panels

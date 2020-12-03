@@ -3,8 +3,23 @@ title: "Projects"
 ---
 *****
 
+## Evaluating Disney's Pricing Model
+IN PROGRESS.  Simple data analysis project done in order to calculate the price elasticity of demand for Disney World single day passes over the past decade using attendance records and average prices.  Doing this allowed me to make conclusions about Disney's pricing strategy relating to their theme parks.
+
+<center>
+<font size="4">
+[Code and Report](https://tylerchia.github.io/disneyworld_ticket_elasticity/)
+</font>
+</center>
+
+<center>
+![](./data/disneyattendance.png)
+</center>
+
+*****
+
 ## Spotify Recommender: Ordering Playlists
-UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  IN PROGRESS.
+IN PROGRESS.  UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  
 
 <center>
 <font size="4">

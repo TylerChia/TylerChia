@@ -7,6 +7,12 @@ subtitle: "tylerchia7@gmail.com"
 ### Experience
 *****
 
+**(January 2021-Present)**
+
+Undergraduate Research Assistant | UCSB Geography Department | University of California, Santa Barbara
+
+- Using R to characterize hydrologic regions of the U.S. by comparing data from the NOAA National Water Model to USGS streamflow gauges.
+
 **(June 2019-May 2020)**
 
 Whole Foods Shopper | Amazon/Whole Foods | 1765 California St, San Francisco, CA 94109
@@ -47,9 +53,10 @@ Teacher Assistant | West Portal Lutheran | 200 Sloat Blvd, San Francisco, CA 941
 University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In Progress
 
 
-- Economics B.A.
 - Statistics and Data Science B.S.
+- Economics B.A.
 - Minor in Spatial Science
+- Minor in Applied Psychology
 - Professional Certificate in Technology Management
 - Letters and Science Honors Program
 - UCSB Data Science Club Mentor

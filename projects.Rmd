@@ -4,7 +4,7 @@ title: "Projects"
 *****
 
 ## Evaluating Disney's Pricing Model
-IN PROGRESS.  Simple data analysis project done in order to calculate the price elasticity of demand for Disney World single day passes over the past decade using attendance records and average prices.  Doing this allowed me to make conclusions about Disney's pricing strategy relating to their theme parks.
+Simple data analysis project done in order to calculate the price elasticity of demand for Disney World single day passes over the past decade using attendance records and average prices.  Doing this allowed me to make conclusions about Disney's pricing strategy relating to their theme parks.
 
 <center>
 <font size="4">
@@ -19,7 +19,7 @@ IN PROGRESS.  Simple data analysis project done in order to calculate the price 
 *****
 
 ## Spotify Recommender: Ordering Playlists
-IN PROGRESS.  UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  
+UCSB Data Science Club Project.  Through this project, my group and I wanted to see if we could order a Spotify playlist based on similarity to another playlist.  In order to do this, we got numerical data from our Spotify playlists and calculated the error between the numerical values of songs from the second playlist and the average, median, and mode values from the first.  This allowed us to make predictions as to which songs were most similar to the playlist.  
 
 <center>
 <font size="4">

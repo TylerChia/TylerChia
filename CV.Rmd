@@ -4,70 +4,8 @@ subtitle: "tylerchia7@gmail.com"
 ---
 
 
-### Experience
-*****
+<center>
 
-**(January 2021-Present)**
+#### My resume can be downloaded [here](docs/Resume1.pdf).
 
-Undergraduate Research Assistant | UCSB Geography Department | University of California, Santa Barbara
-
-- Using R to characterize hydrologic regions of the U.S. by comparing data from the NOAA National Water Model to USGS streamflow gauges.
-
-**(June 2019-May 2020)**
-
-Whole Foods Shopper | Amazon/Whole Foods | 1765 California St, San Francisco, CA 94109
-
-
-- Worked as a shopper that fulfilled orders made by customers through Amazon’s PrimeNow program.
-- Adjusted under high pressure situations in order to fulfill the orders in the given time frame
-- Cooperated with fellow shoppers, customers in the store, and the drivers who delivered the orders to the customers’ homes.
-
-**(June 2019-September 2019)**
-
-Barista | Supercue Cafe | 1139 Taraval St, San Francisco, CA 94116
-
-
-- Filled orders by making drinks including tea and smoothies.
-- Operated the cash register and interacted with customers and team members.
-- Adjusted under high pressure situations.
-
-**(June 2014-2018)**
-
-Volunteering | Camptoons Counselor | 3638 Lawton St, San Francisco, CA 94122
-
-
-- Counselor for four summers at Camptoons Summer Day Camp.
-- Able to collaborate with team members in order to plan, lead, and teach lessons to fourth and fifth graders. 
-- Planned and led activities. 
-
-**(October 2014-March 2015)**
-
-Teacher Assistant | West Portal Lutheran | 200 Sloat Blvd, San Francisco, CA 9413
-
-
-- Tutored students in reading and writing Spanish.
-
-### Education
-*****
-
-University of California, Santa Barbara, Santa Barbara, CA 2018-2022 ...... In Progress
-
-
-- Statistics and Data Science B.S.
-- Economics B.A.
-- Minor in Spatial Science
-- Minor in Applied Psychology
-- Professional Certificate in Technology Management
-- Letters and Science Honors Program
-- UCSB Data Science Club Mentor
-- UCSB Resilience Summit and Certificate Program
-
-### Skills
-*****
-
-- Languages: R, SQL, Python, C++, SAS
-- Visualization: ggplot2, Matplotlib, Seaborn, Plotly
-- Analysis: tidyverse, Pandas, Numpy
-- Development: RMarkdown, Github, MS Office, Basic Knowledge of HTML and CSS
-- Mapping: sf, raster, leaflet, OpenStreetMaps, whitebox, bbox
-- 5 Years of Spanish Class
+</center>

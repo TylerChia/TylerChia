@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+*******
+
+## Flood Intervals Research (Geography Department)
+- Work done under supervision of Mike Johnson, data scientist, NOAA Affiliate (Water Resource Engineer II), and a PhD candidate in Geography at the University of California, Santa Barbara.
+- Utilizing RStudio to characterize hydrologic regions of the United States by comparing data from the NOAA National Water Model to USGS streamflow gages
+- Developed and finalized a dataframe containing 169,776 observations specific to each USGS site, model, and recurrence interval
+- Created several interactive plots and web applications using Tableau and RShiny to display data
+
+<center>
+<font size="4">
+[Code and Report](https://tylerchia.github.io/floodintervalswriteup/)
+</font>
+</center>
+
+<center>
+![](./data/tableau1.png)
+</center>
+
+*****
+

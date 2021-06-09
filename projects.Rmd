@@ -3,6 +3,32 @@ title: "Projects"
 ---
 *****
 
+## Predicting the 2016 Presidential Election Using Demographic Data <i class="fab fa-r-project"></I>
+
+Goal #1: Predicting whether or not Donald Trump would win a specific county 
+
+- Linear Regression: 0.09 RMSE / Predicted Trump would win 548/613 counties in the test dataset which is 21 more than he actually won. 
+- Logistic Regression: 91.4% Accuracy.
+- Random Forest: 92.2% Accuracy.
+- Adaptive Boosting: 92% Accuracy.
+
+Goal #2: Use K-Means clustering to cluster our data and see if there were any distinct groups driven by specific demographic variables
+
+- Top two clusters that had the highest percentage of counties vote for Trump, were also predominantly white and wealthy.
+- The cluster with the lowest percentage of counties that voted for Trump was driven by a higher population of minorities and individuals with lower income per capita.
+
+<center>
+<font size="4">
+[Code and Report](https://tylerchia.github.io/2016Election/)
+</font>
+</center>
+
+<center>
+![](./data/clustering.png)
+</center>
+
+*****
+
 ## Evaluating Disney's Pricing Model <i class="fab fa-r-project"></I>
 Simple data analysis project done in order to calculate the price elasticity of demand for Disney World single day passes over the past decade using attendance records and average prices.  Doing this allowed me to make conclusions about Disney's pricing strategy relating to their theme parks.
 

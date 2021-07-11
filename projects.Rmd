@@ -5,7 +5,7 @@ title: "Projects"
 
 ## Predicting The 2021 NBA Draft
 
-The goal of this project was to use preexisting data from the 2019 NBA draft in addition to NCAA college basketball statistics as a way to create the best classification model to predict whether or not a player would be chosen in the 2021 NBA draft.  I found that the best model out of the ones that I attempted was a logistic regression that used an optimal threshold.  This model had a 93% overall accuracy rate and an 80% true positive rate on the 40% test data split, which was the highest out of all the models considering the overall accuracy was not lowered too drastically.  On July 29th, I will come back to this project as a way to see how many of the 60 drafted individuals were predicted to be drafted by my model
+The goal of this project was to use preexisting data from the 2019 NBA draft in addition to NCAA college basketball statistics as a way to create the best classification model to predict whether or not a player would be chosen in the 2021 NBA draft.  I found that the best model out of the ones that I attempted was a logistic regression that used an optimal threshold.  This model had a 93% overall accuracy rate and an 80% true positive rate on the 40% test data split, which was the highest out of all the models considering the overall accuracy was not lowered too drastically.  On July 29th, I will come back to this project as a way to see how many of the 60 drafted individuals were predicted to be drafted by my model.
 
 <center>
 <font size="4">

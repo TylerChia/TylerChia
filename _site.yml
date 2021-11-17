@@ -9,6 +9,9 @@ navbar:
     - text: "Projects"
       icon: fa-rocket
       href: projects.html
+    - text: "Internships"
+      icon: fa-folder-open
+      href: Internships.html
     - text: "Research"
       icon: fa-flask
       href: research.html

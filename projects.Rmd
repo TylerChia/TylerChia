@@ -7,6 +7,9 @@ title: "Projects"
 
 The goal of this project was to use preexisting data from the 2019 NBA draft in addition to NCAA college basketball statistics as a way to create the best classification model to predict whether or not a player would be chosen in the 2021 NBA draft.  I found that the best model out of the ones that I attempted was a logistic regression that used an optimal threshold.  This model had a 93% overall accuracy rate and an 80% true positive rate on the 40% test data split, which was the highest out of all the models considering the overall accuracy was not lowered too drastically.  On July 29th, I will come back to this project as a way to see how many of the 37 individuals that my model predicted to be drafted are actually drafted to the NBA.
 
+Edit (Post July 29, 2021):
+Out of the 37 players that my model predicted to be drafted, only 8 of them were actually drafted leaving us with a 21.6% accuracy rate.  With that being said, there 10 players who I predicted to be drafted who went undrafted but eventually signed with NBA G-League teams or are currently on an NBA roster.  Many of the players that I predicted to be drafted actually ended up not even entering the draft and stayed at their respective schools.  In the datatable, I have highlighted the players that were officially drafted by NBA teams in the 2021 draft.
+
 <center>
 <font size="4">
 [Code and Report](https://tylerchia.github.io/nbadraft2021/)

@@ -3,6 +3,33 @@ title: "Projects"
 ---
 *****
 
+## Forecasting Short-Term Future COVID-19 Cases Based on Historical Data <i class="fab fa-python"></I>
+
+The onslaught of COVID-19 has proved to be a detrimental event in society and has restricted much of our everyday lives. As data scientists, we aimed to utilize past data to predict the number of COVID cases using machine learning. With this goal in mind, we created two time-series forecasting models that predicted the number of new daily COVID cases in each county. These models were trained on the estimated percentage of outpatient doctor visits with confirmed COVID, outpatient doctor visits primarily about COVID-related symptoms, and new hospital admissions with COVID-associated diagnoses: all for 15 counties in California from May 1st, 2020 to November 1st, 2021.  We created both an interpretable model in a decision tree regression model as well as a more complex model in a support vector regression model.
+
+Conclusion:
+
+- Decision Tree Regressor testing RMSE was 908.86 and its R-squared value was approximately 0.57.
+- Support Vector Regressor produced a testing RMSE of 1403.20 and an R-squared value of approximately -0.025.
+- Neither model accurately predicted the number of new daily COVID cases per county using historical data due to wide range of values of the original dataset in addition to the features simply not being good predictors of new COVID cases.
+- Decision tree performed much better than the SVR model as it was able to capture the overall trend in the rise and fall of new daily COVID cases.
+
+<font size="4">
+Python notebook containing code and outputs for **data preparation** can be found [here](docs/data_preparation copy.pdf).
+
+Python notebook containing code and outputs for **model tuning, training, and evaluation** [here](docs/time_series copy.pdf).
+
+**Final Report** for the project can be found [here](docs/197A Final Paper copy.pdf).
+
+**Final Poster** can be found [here](docs/capstone poster copy.pdf).
+</font>
+
+<center>
+![](data/projectposter.png)
+</center>
+
+******
+
 ## Predicting The 2021 NBA Draft <i class="fab fa-r-project"></I>
 
 The goal of this project was to use preexisting data from the 2019 NBA draft in addition to NCAA college basketball statistics as a way to create the best classification model to predict whether or not a player would be chosen in the 2021 NBA draft.  I found that the best model out of the ones that I attempted was a logistic regression that used an optimal threshold.  This model had a 93% overall accuracy rate and an 80% true positive rate on the 40% test data split, which was the highest out of all the models considering the overall accuracy was not lowered too drastically.  On July 29th, I will come back to this project as a way to see how many of the 37 individuals that my model predicted to be drafted are actually drafted to the NBA.

@@ -5,7 +5,11 @@ title: "Projects"
 
 ## Forecasting Short-Term Future COVID-19 Cases Based on Historical Data <i class="fab fa-python"></I>
 
-The onslaught of COVID-19 has proved to be a detrimental event in society and has restricted much of our everyday lives. As data scientists, we aimed to utilize past data to predict the number of COVID cases using machine learning. With this goal in mind, we created two time-series forecasting models that predicted the number of new daily COVID cases in each county. These models were trained on the estimated percentage of outpatient doctor visits with confirmed COVID, outpatient doctor visits primarily about COVID-related symptoms, and new hospital admissions with COVID-associated diagnoses: all for 15 counties in California from May 1st, 2020 to November 1st, 2021.  We created both an interpretable model in a decision tree regression model as well as a more complex model in a support vector regression model.
+Goal: 
+
+- Create two time-series forecasting models that predicts the number of new daily COVID cases in each county. 
+- Models were trained on the estimated percentage of outpatient doctor visits with confirmed COVID, outpatient doctor visits primarily about COVID-related symptoms, and new hospital admissions with COVID-associated diagnoses: all for 15 counties in California from May 1st, 2020 to November 1st, 2021.  
+- Created both an interpretable model in a decision tree regression model as well as a more complex model in a support vector regression model.
 
 Conclusion:
 

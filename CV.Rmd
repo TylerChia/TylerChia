@@ -6,6 +6,6 @@ subtitle: "tylerchia7@gmail.com"
 
 <center>
 
-#### My resume can be downloaded [here](docs/Resume1.pdf).
+#### My resume can be downloaded [here](docs/Resume.pdf).
 
 </center>

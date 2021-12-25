@@ -3,6 +3,26 @@ title: "Projects"
 ---
 *****
 
+## Trump or Biden? (NLP Tweet Classifier) <i class="fab fa-python"></I>
+
+The goal of this project was to build a classifier that predicts whether a specific tweet was written by Donald Trump or Joe Biden.  The three classifiers that were used were a Naive Bayes Model, a Support Vector Machine, and a Logistic Regression.
+
+- Naive Bayes: 95.125%
+- Support Vector Machine: 96.375%
+- Logistic Regression: 94.875%
+
+<center>
+<font size="4">
+[Code and Report](docs/trump_or_biden.html)
+</font>
+</center>
+
+<center>
+![](data/trumpbiden.png)
+</center>
+
+*****
+
 ## Forecasting Short-Term Future COVID-19 Cases Based on Historical Data <i class="fab fa-python"></I>
 
 Goal: 

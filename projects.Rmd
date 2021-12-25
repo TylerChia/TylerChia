@@ -18,7 +18,7 @@ The goal of this project was to build a classifier that predicts whether a speci
 </center>
 
 <center>
-![](data/trumpbiden.png)
+![](data/trumpbiden.png){width=50%}
 </center>
 
 *****

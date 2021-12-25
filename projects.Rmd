@@ -68,7 +68,7 @@ Out of the 37 players that my model predicted to be drafted, only 8 of them were
 </center>
 
 <center>
-![](./data/draft.png)
+![](./data/draft.png){width=70%}
 </center>
 
 *****

@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+My name is Tyler Chia and I am a statistics/data science and economics double major at the University of California, Santa Barbara.  I am also have a minor in spatial science and a professional certificate in technology management.  I will be graduating in the Spring!
+
+This is the repository for my personal website in which I have displayed my projects throughout my time as an undergrad student.
+
 <!--
 **TylerChia/TylerChia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

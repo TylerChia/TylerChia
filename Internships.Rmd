@@ -3,19 +3,20 @@ title: "Internship Work"
 ---
 *****
 
-## Player Profile App (Shiny Web App) <i class="fab fa-r-project"></I>
+## Player Profile Apps (Shiny Web App) <i class="fab fa-r-project"></I>
 
-Continuing my work as a data analytics intern for UCSB's D1 baseball team, I created a player profile web application using RShiny that visualizes various statistics for each type of player on the team.  Pitchers, hitters, and catchers all have different stats displayed as well as differing visualizations. The goal of this app was to let the players and coaches see how well they are doing within the specified date range in comparison to the rest of the team as well as to see how they have improved over time and what they can do to improve in the future.  Warning: Plots make take a moment to load in due to the amount of data being processed.  Plots look best when viewed on a laptop or desktop.  This took me a very long time so please enjoy it LOL.
+Continuing my work as a data analytics intern for UCSB's D1 baseball team, I created player profile web applications using RShiny that visualizes various statistics for each type of player on the team.  Pitchers, hitters, and catchers all have different stats displayed as well as differing visualizations. There is one app for pitcher and hitters and another for catcher framing. The goal of these apps was to let the players and coaches see how well they are doing within the specified date range in comparison to the rest of the team. In addition, it serves to show how they have improved over time and what they can do to improve in the future.  Warning: Plots make take a moment to load in due to the amount of data being processed. Plots look best when viewed on a laptop or desktop.
 
 Instructions:
 
-- On the left-hand sidebar, select the baseball position that you want to view stats on: Pitchers, Hitters, or Catchers
+- On the left-hand sidebar, select the baseball position that you want to view stats on: Pitchers or Hitters
 - In the "inputs" section, select the name of the player you want to see as well as a date range
 - View statistics and beautiful plots
 
 <center>
 <font size="4">
-Link to App: (https://tylerchia.shinyapps.io/player_profile/)
+Link to Pitchers & Hitters: (https://tylerchia.shinyapps.io/player_profile/)
+Link to Catcher Framing: (https://tylerchia.shinyapps.io/catcher_framing/)
 </font>
 </center>
 

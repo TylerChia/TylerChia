@@ -16,6 +16,7 @@ Instructions:
 <center>
 <font size="4">
 Link to Pitchers & Hitters: (https://tylerchia.shinyapps.io/player_profile/)
+
 Link to Catcher Framing: (https://tylerchia.shinyapps.io/catcher_framing/)
 </font>
 </center>

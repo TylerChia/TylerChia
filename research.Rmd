@@ -4,10 +4,10 @@ title: "Research"
 
 *******
 
-## Hegary Spatial Thinking Lab (Psychology Department)
+## Hegary Spatial Thinking Lab (Psychology Department) <i class="fab fa-r-project"></I> <i class="fab fa-python"></I>
 - Work done under the supervision of Mary Hegarty, a psychology professor at UCSB.  Link to the lab's website can be found [here](https://hegarty-lab.psych.ucsb.edu/)
-- Assisted with data analysis of experimental data of an honors student’s thesis project
-- Worked with raw experimental data in R to perform exploratory data analysis including visualizations, regression
+- Assisted with data analysis of experimental data for two honors students' thesis projects
+- Worked with raw experimental data in R and python to perform exploratory data analysis including visualizations, regression
 analyses, and statistical tests
 
 <center>
@@ -17,7 +17,7 @@ analyses, and statistical tests
 </center>
 
 <center>
-![](data/condition copy.png)
+![](data/condition copy.png){width=50%}
 </center>
 
 *******
@@ -35,7 +35,7 @@ analyses, and statistical tests
 </center>
 
 <center>
-![](./data/tableau1.png)
+![](./data/tableau1.png){width=75%}
 </center>
 
 *****

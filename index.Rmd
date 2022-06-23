@@ -10,11 +10,11 @@ output:
 </center>
 
 <center>
-Though I am originally from the city of San Francisco, I am currently a fourth-year student at the University of California, Santa Barbara. I am an economics and statistics and data science double major and am minoring in spatial science and technology management.  I love to expand my range of knowledge across various topics which is perfect for data science as it is an inter-disciplinary field.  For the 2021-2022 school year, I will be a data science fellow for the Central Coast Data Science Partnership as I hope to gain valuable mentorship while simultaneously being an advocate for data science on my campus.  Through this website, I plan to display my work done through various classes, projects, and research that I take on during my time in undergrad. 
+Though I am originally from the city of San Francisco, I am currently a new graduate from the University of California, Santa Barbara. I graduated with degrees in both economics and statistics and data science and minors in spatial science and technology management.  I love to expand my range of knowledge across various topics which is perfect for data science as it is an inter-disciplinary field.  For the summer of 2022, I will be a data science intern at Reyes Coca Cola Bottling as I hope to gain valuable guidance from mentors while simultaneously learning new technical tools.  Through this website, I plan to display my work done through various projects and research that I take on during the next few years. 
 </center>
 
 <center>
-![](./img/IMG_6264.jpeg)
+![](./img/IMG_3521.JPG)
 </center>
 
 *****

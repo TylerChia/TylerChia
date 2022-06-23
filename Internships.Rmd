@@ -19,8 +19,12 @@ Project Update #1: (https://ucsb-ds-capstone-2022.github.io/projects/carpedata/u
 
 Project Update #2: (https://ucsb-ds-capstone-2022.github.io/projects/carpedata/update2.html)
 
+Project Update #3: (https://ucsb-ds-capstone-2022.github.io/projects/carpedata/update3.html)
+
+Link to Final Poster [here](docs/Untitled presentation.pdf)
+
 <center>
-![](./data/collated_nb_cloud_700p_colored_revised.png){width=65%}
+![](./data/capstone_poster.png){width=80%}
 </center>
 
 
